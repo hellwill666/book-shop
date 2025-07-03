@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+.bsp/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.metals/
+.bloop/
+project/metals.sbt
+project/project/
+project/target/
